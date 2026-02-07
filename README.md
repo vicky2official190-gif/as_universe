@@ -29,7 +29,7 @@ Your app will be live in seconds!
 
 ## 💾 Admin Panel Guide
 This app uses **LocalStorage**. To make admin changes (adding apps, changing settings) permanent for all users:
-1.  Open the Admin Panel (PIN: `9852370453`).
+1.  Open the Admin Panel (PIN: `9852`).
 2.  Make your changes.
 3.  Go to the **"Data Management"** tab.
 4.  Use **"Source Code Sync"** to copy the updated code.
