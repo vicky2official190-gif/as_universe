@@ -1,0 +1,14 @@
+# Exclude unnecessary files from Vercel deployment
+
+# node_modules directory
+node_modules/
+
+# Build directories
+build/
+out/
+
+# Log files
+*.log
+
+# Environment variables
+.env*
